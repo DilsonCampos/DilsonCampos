@@ -1,6 +1,6 @@
 👋 Olá! Eu sou Dilson
 - 👀 Estou em transição de carreira...
-- 🌱 Estou graduando em TI de Ciências de Dados na Faculdade SENAC - DF
+- 🌱 Estou cursando TI em Ciências de Dados na Faculdade SENAC - DF
 - <div align="center">
   <a href="https://github.com/DilsonCampos">
    
