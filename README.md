@@ -16,7 +16,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   ##
-  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/dilsoncampos/dilsoncampos/output/github-contribution-grid-snake.svg)
+ 
 
 </div>
 
