@@ -1,5 +1,5 @@
 👋 Olá! Eu sou Dilson
-- 👀 Estou em transição de carreira...
+- 👀 Apaixonado por Tecnologia e Inovação..
 - 🌱 Estou cursando TI em Ciências de Dados na Faculdade SENAC - DF
 - <div align="center">
   <a href="https://github.com/DilsonCampos">
