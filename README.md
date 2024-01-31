@@ -1,7 +1,7 @@
 
 👋 Olá! Eu sou Dilson
 - 👀 Apaixonado por Tecnologia e Inovação..
-- 🌱 Estou cursando TI em Ciências de Dados na Faculdade SENAC - DF
+- 🌱 Formado em Ciências de Dados na Faculdade SENAC - DF
 - <div align="center">
   <a href="https://github.com/DilsonCampos">
    
